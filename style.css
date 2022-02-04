@@ -1,0 +1,10 @@
+*, body {
+    background: #999;
+}
+.feed {
+    margin: 0 auto;
+    width: 1000px;
+}
+img,video {
+    width: inherit;
+}
